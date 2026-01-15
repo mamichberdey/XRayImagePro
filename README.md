@@ -1,4 +1,4 @@
-# X-ray Image Quality Enhancement Pipeline  
+# X-ray Image Processing
 ### A Comprehensive Approach for 2D Detector Data from the KISI–Kurchatov Source
 
 ## 📄 Overview
