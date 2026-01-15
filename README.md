@@ -26,7 +26,7 @@ The proposed approach is based on a **multi-stage image processing pipeline**, w
    - Intensity normalization
 
 2. **Precise Estimation of the Instrumental Response**
-   - Evaluation of the optical system’s instrumental (point spread) function
+   - Evaluation of the optical system’s instrumental (OTF) function
    - Characterization of system-induced blurring
 
 3. **Noise Suppression**
