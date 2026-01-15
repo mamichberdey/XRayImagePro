@@ -42,15 +42,3 @@ Each stage is designed to be independently configurable and reproducible.
 ## 🧪 Experimental Validation
 
 The algorithms were tested on experimental data obtained at the **KISI–Kurchatov** facility. The results demonstrate a significant improvement in image clarity and spatial resolution compared to raw detector data.
-
-## 📂 Repository Structure
-
-```text
-.
-├── data/               # Example or test datasets (if available)
-├── preprocessing/      # Raw data preprocessing modules
-├── psf_estimation/     # Instrumental function estimation
-├── denoising/          # Noise suppression algorithms
-├── deblurring/         # Image restoration and deconvolution
-├── utils/              # Utility functions
-└── main.py             # Main processing pipeline
