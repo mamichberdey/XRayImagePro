@@ -1,4 +1,4 @@
-# X-ray Image Processing
+# X-Ray Image Processing
 ### A Comprehensive Approach for 2D Detector Data from the KISI–Kurchatov Source
 
 ## 📄 Overview
