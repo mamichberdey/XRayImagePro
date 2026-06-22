@@ -5,7 +5,7 @@
 
 This repository contains the source code developed for the scientific article:
 
-> **“A Comprehensive Approach for Improving the Quality of X-ray Images Obtained with a Two-Dimensional Detector at the KISI–Kurchatov Facility”**
+> **“ENHANCEMENT OF THE QUALITY OF X-RAY IMAGES OBTAINED USING A HIGH-RESOLUTION TWO-COORDINATE DETECTOR”**
 
 The work presents the development and experimental validation of an integrated methodology aimed at improving the quality of X-ray images acquired using a two-dimensional detector at the **KISI–Kurchatov** radiation source. The primary objective is to achieve **optimal spatial resolution** while preserving physically meaningful image details.
 
@@ -26,7 +26,7 @@ The proposed approach is based on a **multi-stage image processing pipeline**, w
    - Intensity normalization
 
 2. **Precise Estimation of the Instrumental Response**
-   - Evaluation of the optical system’s instrumental (OTF) function
+   - Evaluation of the optical system’s instrumental (MTF) function
    - Characterization of system-induced blurring
 
 3. **Noise Suppression**
