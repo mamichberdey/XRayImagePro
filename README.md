@@ -1,6 +1,9 @@
 # X-Ray Image Processing
 ### A Comprehensive Approach for 2D Detector Data from the KISI–Kurchatov Source
 
+<img width="5949" height="3925" alt="рисунок_5_англ" src="https://github.com/user-attachments/assets/eb007324-e887-4354-a3c7-f122a22807c5" />
+
+
 ## 📄 Overview
 
 This repository contains the source code developed for the scientific article:
