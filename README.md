@@ -1,16 +1,17 @@
 # X-Ray Image Processing
 ### A Comprehensive Approach for 2D Detector Data from the KISI–Kurchatov Source
 
-<img width="5949" height="3925" alt="рисунок_5_англ" src="https://github.com/user-attachments/assets/eb007324-e887-4354-a3c7-f122a22807c5" />
-
-
 ## 📄 Overview
 
 This repository contains the source code developed for the scientific article:
 
 > **“ENHANCEMENT OF THE QUALITY OF X-RAY IMAGES OBTAINED USING A HIGH-RESOLUTION TWO-COORDINATE DETECTOR”**
 
-The work presents the development and experimental validation of an integrated methodology aimed at improving the quality of X-ray images acquired using a two-dimensional detector at the **KISI–Kurchatov** radiation source. The primary objective is to achieve **optimal spatial resolution** while preserving physically meaningful image details.
+The results of the development and testing of an integrated approach to improving the quality of X-ray images obtained with a high-resolution X-ray camera based on a scintillation screen and a semiconductor matrix are presented. The approach includes data preprocessing, estimation of the instrumental function of the optical system, application of noise suppression algorithms, and image deblurring. Validation of the proposed approach was performed at the Kurchatov Synchrotron Radiation Source (KISI) by comparing processed experimental images of a test object with simulation results. It has been established that the developed approach enables enhancement of spatial resolution and image detail, thereby expanding the capabilities for micro-object analysis and increasing the information content of the obtained data.
+
+
+<img width="6173" height="4046" alt="рисунок_5_англ" src="https://github.com/user-attachments/assets/24a9c0d9-1509-4174-a82f-23b46e1bddbb" />
+
 
 ## 🎯 Objectives
 
